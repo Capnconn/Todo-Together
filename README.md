@@ -33,3 +33,9 @@ dotnet run --project src/TodoTogether.Server
 ```
 
 Then open the URL printed in the console. The server serves the client, so this is the only project you need to run.
+
+## License
+
+Todo-Together is source-available and free for non-commercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). You may use it, change it, and share your changes, as long as none of it is for commercial purposes.
+
+Required Notice: Copyright (c) 2026 Capnconn (https://github.com/Capnconn/Todo-Together)
