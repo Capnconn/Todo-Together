@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TodoTogether.Client/TodoTogether.Client.csproj" />
+    <Project Path="src/TodoTogether.Server/TodoTogether.Server.csproj" />
+    <Project Path="src/TodoTogether.Shared/TodoTogether.Shared.csproj" />
+  </Folder>
+</Solution>
